@@ -1,0 +1,22 @@
+{
+  "apn-dev": {
+    "passphrase": "test",
+    "key": "example.pem",
+    "cert": "example2.pem"
+  },
+  "apn": {
+    "passphrase": "test",
+    "key": "example.pem",
+    "cert": "example2.pem"
+  },
+  "gcm": {
+    "apiKey": "00000000000000000000000000000",
+    "projectNumber": 11111111111111
+  },
+  "production": false,
+  "badge": true,
+  "sound": true,
+  "alert": true,
+  "vibrate": true,
+  "iconColor": "#FFFFFF"
+}
